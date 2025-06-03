@@ -5,6 +5,7 @@ The lamp will be of a miniature size and its colour will be controlled by clappi
 2 claps turns it off and on and 1 clap will change its colour.
 The lamp will feature adjustable sensitivity as well as a variety of colours spanning from red to yellow to green to blue as well as everything in between.
 The hardware will not be naked and a casing will be built from 3D printing.
+I have decided to avoid the use of a PCB for this certain project.
 I am looking forward to getting this project approved and eventually building it.
 
 
