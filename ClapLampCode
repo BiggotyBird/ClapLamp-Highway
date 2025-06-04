@@ -1,1 +1,66 @@
+#include <Adafruit_NeoPixel.h>
 
+#define LED_PIN 5
+#define MIC_PIN 34
+#define POT_PIN 35
+#define NUM_LEDS 20
+
+Adafruit_NeoPixel strip(NUM_LEDS, LED_PIN, NEO_GRB + NEO_KHZ800
+
+bool isON = true;
+unsigned long lastClapTime = 0;
+int clapCount = 0;
+int threshold = 700;
+int colorIndex = 0;
+uint32_t colors [] = {strip.Color(255, 0, 0), strip.Color(0, 255, 0), strip.Colour(0, 0, 255), strip.Color(255, 255, 0)};
+
+void setup () {
+int micValue = analogRead(MIC_PIN);
+int potValue = analogRead(POT_PIN);
+threshold = map(potValue, 0, 4095, 300, 1000);
+
+if (micValue > threshold) {
+unsigned long current Time = millis();
+if (currentTime - lastClapTime < 500) {
+clapCount++;
+} else {
+clapcount = 1;
+}
+lastClapTime = currentTime;
+if (clapCount == 1) {
+smoothTransistion();
+} else if (clapCount == 2) {
+toggleOnOff();
+clapCout = 0,
+}
+}
+}
+
+void smoothTransition() {
+if (isOn) {
+int nextColorIndex = (color Index + 1) % 4;
+uint32_t startColor = colors[colorIndex];
+uint32_t endColor= colors[nextColorIndex];
+for(int i = 0; i<= 100; i++) {
+uint8_t r = ((strip.getRed(startColor) * (100 - i)) +(strip.getRed(endColor) * i)) / 100;
+uint8_t g = ((strip.getGreen(startColor) * (100 - i)) +(strip.getGreen(endColor) * i)) / 100;
+uint8_t b = ((strip.getBlue(startColor) * (100 - i)) +(strip.getBlue(endColor) * i)) / 100;
+for (int j = 0; j < NUM_LEDS; j++) {
+strip.setPixelColor(j, strip.Color(r, g, b));
+}
+strip.show();
+delay (10);
+}
+colorIndex = nextColorIndex;
+}
+}
+
+void toggleOnOff() {
+isOn = !isOn;
+if (isOn) {
+smooth Transition();
+} else {
+strip.clear();
+strip.show();
+}
+}
