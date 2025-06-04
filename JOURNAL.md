@@ -33,7 +33,7 @@ My budget in AUD is $231.40 which puts me well below my budget leaving room for 
 
 3D Printed Case (2/06/2025)
 
-Today I spent 3 hours on working for a 3D case design.
+Today I spent 4 hours on working for a 3D case design.
 The LEDS will hang over the model (with a translucent plastic as a form of lamp shade).
 The electronics which power the circuit is found hidden in the base of the lamp and I have left an open compartment for the USB connector, potentiometer and sound sensor.
 The model has been split into 4 parts for easy printing.
