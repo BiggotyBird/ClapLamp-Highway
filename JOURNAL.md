@@ -32,8 +32,10 @@ I have left the 3D printed case section blank as I will start its design either 
 The overall price of this project is $73.49 AUD not including shipping costs or 3D printing costs.
 My budget in AUD is $231.40 which puts me well below my budget leaving room for any mistakes or miscalculations later on.
 I didnt run into many problems in this section, just took a little while to research for parts.
-See BOM.png for image of what I have done.
 
+
+See BOM.png for image of what I have done.
+https://github.com/BiggotyBird/ClapLamp-Highway/blob/main/BOM.png
 
 3D Printed Case (2/06/2025)
 
