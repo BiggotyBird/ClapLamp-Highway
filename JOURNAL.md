@@ -39,3 +39,12 @@ The electronics which power the circuit is found hidden in the base of the lamp 
 The model has been split into 4 parts for easy printing.
 This is my first time ever using a 3D modelling software and this simple model gave me lots of troubles.
 I prevailed and am eager to learn more.
+
+ClapLamp Code (7/06/2025)
+
+It has been a busy week of assesments so I havent worked on this in a while. 
+I have spent 4 hours working for the code for this project.
+I am a beginer coder and this took alot of research to code.
+My code requires a library in order to work.
+I have used the Arduino IDE to fix up my code using the verify mechanic.
+The code works online and I hope it will work in the actual hardware.
