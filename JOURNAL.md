@@ -22,7 +22,9 @@ I have used kicad to design my circuit diagram, I spent around 3 hours designing
 This was my first time using kicad and note some parts may differ in models to the BoM tomorrow due to accessibility of parts in the software.
 I quite enjoy electronics so I am honoured to have the chance to learn about this software first hand.
 I ran into some problems with wiring and part selecting but it ended up all fine in the end.
-See Schematic.png for image of what I have done.
+
+
+See Schematic.png for image of what I have done. https://github.com/BiggotyBird/ClapLamp-Highway/blob/main/Schematic.png
 
 Bill of Materials (31/05/2025)
 
