@@ -18,7 +18,7 @@ I am looking forward to getting this project approved and eventually building it
 
 Circuit Diagram (30/05/2025)
 
-I have used kicad to design my circuit diagram, I spent around 3 hours designing this circuit.
+I have used kicad to design my circuit diagram and I spent around 3 hours designing this circuit.
 This was my first time using kicad and note some parts may differ in models to the BoM tomorrow due to accessibility of parts in the software.
 I quite enjoy electronics so I am honoured to have the chance to learn about this software first hand.
 I ran into some problems with wiring and part selecting but it ended up all fine in the end.
