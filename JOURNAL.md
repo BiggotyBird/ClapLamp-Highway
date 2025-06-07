@@ -47,7 +47,9 @@ The electronics which power the circuit is found hidden in the base of the lamp 
 The model has been split into 4 parts for easy printing.
 This is my first time ever using a 3D modelling software and this simple model gave me lots of troubles.
 I had to learn which each tool does but I prevailed and am eager to learn more.
-See 3D Print.png for image of what I have done.
+
+
+See 3D Print.png for image of what I have done. https://github.com/BiggotyBird/ClapLamp-Highway/blob/main/3D%20Print.png
 
 ClapLamp Code (7/06/2025)
 
