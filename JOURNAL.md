@@ -1,6 +1,9 @@
 Title: The ClapLamp
+
 Author: Arda Redjeb (Your Local Turk or Arda Redjeb on Slack)
+
 Description: My project is a lamp whose colour and power will be controlled through the use of clapping
+
 Created at: "29/05/2025"
 
 
