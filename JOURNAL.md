@@ -16,6 +16,7 @@ The lamp will feature adjustable sensitivity as well as a variety of colours spa
 The hardware will not be naked and a casing will be built from 3D printing.
 I have decided to avoid the use of a PCB for this certain project.
 I am looking forward to getting this project approved and eventually building it.
+I will spend 5 hours every day I work on it.
 
 
 Circuit Diagram (30/05/2025)
@@ -25,7 +26,7 @@ This was my first time using kicad and note some parts may differ in models to t
 I quite enjoy electronics so I am honoured to have the chance to learn about this software first hand.
 I ran into some problems with wiring and part selecting but it ended up all fine in the end.
 
-4 hours of designing.
+5 hours of designing.
 
 
 See Schematic.png for image of what I have done. https://github.com/BiggotyBird/ClapLamp-Highway/blob/main/Schematic.png
@@ -39,8 +40,7 @@ The overall price of this project is $73.49 AUD not including shipping costs or 
 My budget in AUD is $231.40 which puts me well below my budget leaving room for any mistakes or miscalculations later on.
 I didnt run into many problems in this section, just took a little while to research for parts.
 
-3 hours of designing.
-
+5 hours of determining.
 
 See BOM.png for image of what I have done.
 https://github.com/BiggotyBird/ClapLamp-Highway/blob/main/BOM.png
@@ -54,7 +54,7 @@ The model has been split into 4 parts for easy printing.
 This is my first time ever using a 3D modelling software and this simple model gave me lots of troubles.
 I had to learn which each tool does but I prevailed and am eager to learn more.
 
-4 hours of designing.
+5 hours of designing.
 
 See 3D Print.png for image of what I have done. https://github.com/BiggotyBird/ClapLamp-Highway/blob/main/3D%20Print.png
 
