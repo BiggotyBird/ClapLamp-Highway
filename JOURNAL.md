@@ -31,6 +31,8 @@ I ran into some problems with wiring and part selecting but it ended up all fine
 
 See Schematic.png for image of what I have done. [https://github.com/BiggotyBird/ClapLamp-Highway/blob/main/Schematic.png
 ](https://github.com/BiggotyBird/ClapLamp-Highway/blob/main/Schematic.PNG)
+
+
 Bill of Materials (31/05/2025)
 
 Today I determinined every part I needed, the quantity of that part and the lowest possible reasonable price online. 
