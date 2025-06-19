@@ -10,8 +10,8 @@ I am building this project because I am an amateur in hardware and software. I a
 BOM
 
 
-| Component | Quantity | Model | Lowest Price | Link 
-| --- | --- | --- | --- | --- |
+|Component|Quantity|Model|Lowest Price|Link 
+|---|---|---|---|---|
 Microcontroller | 1 | ESP32 Devkit V1 | $11.95 | https://rapidroboticsaustralia.com/products/esp32-main-board-with-wi-fi-and-bluetooth?variant=41093085233263&country=AU&currency=AUD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoqUC1d8xQ_VhGVWuL-JFv2fmYWiT4KmZ06z7KKt6i-qnucPGJulVoM |
 
 Sound Sensor Module |	1	| KY-038 | $6.82 | https://littlebirdelectronics.com.au/products/microphone-sound-sensor-module-for-arduino?variant=47369160196385&country=AU&currency=AUD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOooBktvYq5v9L_nzWpf_Teul8eSLpPBXIbl54rdab8Hyyo-aOCzp3-0&gStoreCode=2|
