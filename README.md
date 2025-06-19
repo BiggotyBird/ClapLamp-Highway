@@ -3,6 +3,7 @@ A ESP32 powered lamp whose colour and power can be controlled by simple clapping
 I am building this project as I am an amateur in hardware and software. I am eager to learn more about electronics as I am considering a job in the field. I would also like to participate in the undercity. My science teacher initaly gave me the idea for this project and I want to show him hat I am capable of.
 
 BOM
+---
 
 Component / Quantity/ Model / Lowest Price / Link
 
@@ -26,3 +27,5 @@ Translucent Plastic/ 1 / Frosted acrylic / $3.60 / https://jycaplastics.com.au/p
 USB connector /	1	/ Micro	/ $4.99 / https://www.amazon.com.au/Astrotek-Charger-Android-Tablet-Devices/dp/B07CM8HCKZ/ref=asc_df_B07CM8HCKZ?mcid=931931a809393577831c8686696a2d3c&tag=googleshopdsk-22&linkCode=df0&hvadid=712244421522&hvpos=&hvnetw=g&hvrand=922842809316244658&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9071742&hvtargid=pla-1656797000339&psc=1&gad_source=1
 
 3D Printed Shell / N/A /	N/A /	N/A / N/A
+
+---
