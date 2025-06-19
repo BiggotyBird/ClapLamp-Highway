@@ -10,3 +10,5 @@ Wires | 20 each | Female - Female, Female - Male | $19.35 each case|https://www.
 Translucent Plastic | 1 | Frosted acrylic | $3.60 | https://jycaplastics.com.au/product/frosted-acrylic/?attribute_pa_colour=frosted-ff000&attribute_pa_thickness=2mm&attribute_pa_size=a4&utm_source=Google+Shopping&utm_campaign=Google+Shopping+Feed&utm_medium=cpc&utm_term=13425 |
 USB connector | 1 | Micro | $4.99 | https://www.amazon.com.au/Astrotek-Charger-Android-Tablet-Devices/dp/B07CM8HCKZ/ref=asc_df_B07CM8HCKZ?mcid=931931a809393577831c8686696a2d3c&tag=googleshopdsk-22&linkCode=df0&hvadid=712244421522&hvpos=&hvnetw=g&hvrand=922842809316244658&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9071742&hvtargid=pla-1656797000339&psc=1&gad_source=1 |
 3D Printed Shell | N/A | N/A | N/A | N/A |
+
+Total Price: $73.49 AUD
