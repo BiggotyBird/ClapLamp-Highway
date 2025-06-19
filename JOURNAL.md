@@ -28,8 +28,7 @@ I ran into some problems with wiring and part selecting but it ended up all fine
 
 5 hours of designing.
 
-
-![image](https://github.com/user-attachments/assets/5b1721ff-2ce2-46cf-a618-4fb65219db6e)
+![image](https://github.com/user-attachments/assets/21b8db60-6028-4a8a-b6e0-20665a621026)
 
 
 Bill of Materials (31/05/2025)
@@ -56,8 +55,7 @@ I had to learn which each tool does but I prevailed and am eager to learn more.
 
 5 hours of designing.
 
-![image](https://github.com/user-attachments/assets/21b8db60-6028-4a8a-b6e0-20665a621026)
-
+![image](https://github.com/user-attachments/assets/5b1721ff-2ce2-46cf-a618-4fb65219db6e)
 
 ClapLamp Code (7/06/2025)
 
