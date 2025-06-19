@@ -5,7 +5,7 @@ I am building this project as I am an amateur in hardware and software. I am eag
 BOM
 ---
 
-Component / Quantity/ Model / Lowest Price / Link
+Component: Quantity/ Model / Lowest Price / Link
 
 Microcontroller / 1 / ESP32 Devkit V1 / $11.95 / https://rapidroboticsaustralia.com/products/esp32-main-board-with-wi-fi-and-bluetooth?variant=41093085233263&country=AU&currency=AUD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoqUC1d8xQ_VhGVWuL-JFv2fmYWiT4KmZ06z7KKt6i-qnucPGJulVoM
 
