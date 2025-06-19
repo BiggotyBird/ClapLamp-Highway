@@ -29,8 +29,7 @@ I ran into some problems with wiring and part selecting but it ended up all fine
 5 hours of designing.
 
 
-See Schematic.png for image of what I have done. [https://github.com/BiggotyBird/ClapLamp-Highway/blob/main/Schematic.png
-](https://github.com/BiggotyBird/ClapLamp-Highway/blob/main/Schematic.PNG)
+![image](https://github.com/user-attachments/assets/5b1721ff-2ce2-46cf-a618-4fb65219db6e)
 
 
 Bill of Materials (31/05/2025)
@@ -44,8 +43,7 @@ I didnt run into many problems in this section, just took a little while to rese
 
 5 hours of determining.
 
-See BOM.png for image of what I have done.
-https://github.com/BiggotyBird/ClapLamp-Highway/blob/main/BOM.png
+![image](https://github.com/user-attachments/assets/9a3246c3-699c-4956-a079-ab8d7afef6ec)
 
 3D Printed Case (2/06/2025)
 
@@ -58,7 +56,8 @@ I had to learn which each tool does but I prevailed and am eager to learn more.
 
 5 hours of designing.
 
-See 3D Print.png for image of what I have done. https://github.com/BiggotyBird/ClapLamp-Highway/blob/main/3D%20Print.png
+![image](https://github.com/user-attachments/assets/21b8db60-6028-4a8a-b6e0-20665a621026)
+
 
 ClapLamp Code (7/06/2025)
 
