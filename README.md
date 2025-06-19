@@ -19,7 +19,7 @@ Capacitor	| 1 and 1 extra	| 1000µF Electrolytic	| $0.98 each | https://core-ele
 | --- | --- | --- | --- | --- |
 Resistors |	1 and 1 extra	| 220Ω	| $0.10 each | https://core-electronics.com.au/resistor-220-ohm-1-4th-watt-pth.html |
 | --- | --- | --- | --- | --- |
-Wires	| 20 each |	Female - Female, Female - Male | $19.35 each case | https://www.digikey.com.au/en/products/detail/digikey-standard/DKS-20FF-20/17038802? srsltid=AfmBOooea0_Vej7fq4ZTtE41yoWnEimgD5K_Svtx5SEuVp82oe7hBMFTQIs,  https://www.digikey.com.au/en/products/detail/digikey-standard/DKS-20MF-20/17038783?srsltid=AfmBOorXex_qdSSuPKcO7VSY4joykpmK6yiIjKVwbXGMsnwoU1X-GouSEP4 |
+Wires	| 20 each |	Female - Female, Female - Male | $19.35 each case | https://www.digikey.com.au/en/products/detail/digikey-standard/DKS-20FF-20/17038802? ,  https://www.digikey.com.au/en/products/detail/digikey-standard/DKS-20MF-20/17038783?srsltid=AfmBOorXex_qdSSuPKcO7VSY4joykpmK6yiIjKVwbXGMsnwoU1X-GouSEP4 |
 | --- | --- | --- | --- | --- |
 Translucent Plastic | 1 | Frosted acrylic | $3.60 | https://jycaplastics.com.au/product/frosted-acrylic/?attribute_pa_colour=frosted-ff000&attribute_pa_thickness=2mm&attribute_pa_size=a4&utm_source=Google+Shopping&utm_campaign=Google+Shopping+Feed&utm_medium=cpc&utm_term=13425 |
 | --- | --- | --- | --- | --- |
