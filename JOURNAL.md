@@ -7,6 +7,8 @@ Created at: "29/05/2025"
 
 ---
 
+Total Time Spent: 20 Hours
+
 The Idea (29/05/2025)
 
 I am pitching a clap controlled lamp as a 6 point custom project.
