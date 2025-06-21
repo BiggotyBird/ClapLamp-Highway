@@ -2,7 +2,8 @@
 An ESP32-powered lamp whose colour and power can be controlled by simple clapping. It features adjustable sensitivity and an assortment of different colors.
 I am building this project because I am an amateur in hardware and software. I am eager to learn more about electronics because I am considering a job in the field. I would also like to participate in the Undercity. My science teacher initially gave me the idea for this project, and I want to show him what I am capable of.
 
-![image](https://github.com/user-attachments/assets/b2a8dd17-d064-4dc5-b1a0-4c775d948859) ![image](https://github.com/user-attachments/assets/9a86f17f-7fc2-4875-ad0f-1b5df5205440)
+![image](https://github.com/user-attachments/assets/8f8e6013-56bd-447a-bf0b-2a11a7bcd129)
+
 
 
 
