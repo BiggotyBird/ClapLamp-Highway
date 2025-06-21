@@ -71,3 +71,14 @@ The main trouble I had was the fixing of the code after verifying it (I cant rea
 
 5 hours of coding.
 
+ClapLamp 3D Print Revamp (21/06/2025)
+
+It has come to my attention that there are flaws with my 3d print design.
+These flaws come in the dimensions and assembly of the clamplamp.
+I have completely revamped the 3D print adding a whole for the USB aswell as making the whole design one part so no assembly or dissambly is required.
+
+2 hours of revamping
+
+![image](https://github.com/user-attachments/assets/1fdfd1af-ffdd-4bc7-9018-cd8f08a79b23)
+
+
