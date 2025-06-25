@@ -3,6 +3,8 @@ An ESP32-powered lamp whose colour and power can be controlled by simple clappin
 I am building this project because I am an amateur in hardware and software. I am eager to learn more about electronics because I am considering a job in the field. I would also like to participate in the Undercity. My science teacher initially gave me the idea for this project, and I want to show him what I am capable of.
 
 ![image](https://github.com/user-attachments/assets/8f8e6013-56bd-447a-bf0b-2a11a7bcd129)
+![image](https://github.com/user-attachments/assets/5ed1d4cc-ecff-469f-8dce-cdcb9fc4c5ab)
+![image](https://github.com/user-attachments/assets/5ed1d4cc-ecff-469f-8dce-cdcb9fc4c5ab)
 
 
 
