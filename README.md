@@ -4,7 +4,7 @@ I am building this project because I am an amateur in hardware and software. I a
 
 ![image](https://github.com/user-attachments/assets/8f8e6013-56bd-447a-bf0b-2a11a7bcd129)
 ![image](https://github.com/user-attachments/assets/5ed1d4cc-ecff-469f-8dce-cdcb9fc4c5ab)
-![image](https://github.com/user-attachments/assets/5ed1d4cc-ecff-469f-8dce-cdcb9fc4c5ab)
+
 
 
 
