@@ -75,7 +75,7 @@ ClapLamp 3D Print Revamp (21/06/2025)
 
 It has come to my attention that there are flaws with my 3d print design.
 These flaws come in the dimensions and assembly of the clamplamp.
-I have completely revamped the 3D print adding a whole for the USB aswell as making the whole design one part so no assembly or dissambly is required.
+I have completely revamped the 3D print adding a hole for the USB aswell as making the whole design one part so no assembly or dissambly is required.
 
 2 hours of revamping
 
