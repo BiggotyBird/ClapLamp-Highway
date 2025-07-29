@@ -28,7 +28,11 @@ This was my first time using kicad and note some parts may differ in models to t
 I quite enjoy electronics so I am honoured to have the chance to learn about this software first hand.
 I ran into some problems with wiring and part selecting but it ended up all fine in the end.
 
-5 hours of designing.
+1 hour watching tutorials
+2 hours compiling parts
+2 hours connecting parts
+1 hour  neatening up
+Overall 5 hours
 
 ![image](https://github.com/user-attachments/assets/21b8db60-6028-4a8a-b6e0-20665a621026)
 
@@ -42,7 +46,10 @@ The overall price of this project is $73.49 AUD not including shipping costs or 
 My budget in AUD is $231.40 which puts me well below my budget leaving room for any mistakes or miscalculations later on.
 I didnt run into many problems in this section, just took a little while to research for parts.
 
-5 hours of determining.
+1 hour compiling parts
+3 hours looking for the lowest pricing
+1 hour neatening up the table
+Overall 5 hours
 
 ![image](https://github.com/user-attachments/assets/9a3246c3-699c-4956-a079-ab8d7afef6ec)
 
@@ -55,7 +62,10 @@ The model has been split into 4 parts for easy printing.
 This is my first time ever using a 3D modelling software and this simple model gave me lots of troubles.
 I had to learn which each tool does but I prevailed and am eager to learn more.
 
-5 hours of designing.
+1 hour experimenting and watching tutorials.
+3 hours designing.
+1 hour finalising.
+Overall 5 hours
 
 ![image](https://github.com/user-attachments/assets/5b1721ff-2ce2-46cf-a618-4fb65219db6e)
 
@@ -69,7 +79,10 @@ I have used the Arduino IDE to fix up my code using the verify mechanic.
 The code works online and I hope it will work in the actual hardware.
 The main trouble I had was the fixing of the code after verifying it (I cant read error messages very well).
 
-5 hours of coding.
+1 hour watching tutorials
+3 hours coding
+2 hours ironing out mistakes
+Overall 5 hours
 
 ClapLamp 3D Print Revamp (21/06/2025)
 
